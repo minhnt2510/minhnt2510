@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B9FFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Minh+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=22&pause=1000&color=7B9FFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Minh+%F0%9F%91%8B" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B9FFF,100:32D5FF&height=200&section=header&text=Nguyen%20Tan%20Minh&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=48&animation=twinkling&stroke=0d1117&strokeWidth=1.5" />
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1200&color=7B9FFF&center=true&vCenter=true&width=650&lines=React+19+%C2%B7+NestJS+%C2%B7+Socket.IO;Real-time+%C2%B7+Microservices+%C2%B7+Clean+UI;From+pixel+to+production+—+both+ends+matter" />
+<img src="https://readme-typing-svg.vercel.app?font=Inter&weight=600&size=20&duration=2800&pause=1200&color=7B9FFF&center=true&vCenter=true&width=650&lines=React+19+%C2%B7+NestJS+%C2%B7+Socket.IO;Real-time+%C2%B7+Microservices+%C2%B7+Clean+UI;From+pixel+to+production+%E2%80%94+both+ends+matter" />
 
 <br/>
 <br/>
@@ -188,8 +188,8 @@ Full-stack TTS app with JWT auth, credit management, project management, API key
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=minhnt2510&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=7B9FFF&icon_color=32D5FF&text_color=7DD3FC" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnt2510&layout=compact&langs_count=6&hide_border=true&bg_color=0F172A&title_color=7B9FFF&text_color=7DD3FC" />
+<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=minhnt2510&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=7B9FFF&icon_color=32D5FF&text_color=7DD3FC" />
+<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=minhnt2510&layout=compact&langs_count=6&hide_border=true&bg_color=0F172A&title_color=7B9FFF&text_color=7DD3FC" />
 
 </div>
 
@@ -259,7 +259,7 @@ Full-stack TTS app with JWT auth, credit management, project management, API key
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=7B9FFF&center=true&vCenter=true&width=600&lines=From+pixel+to+production+—+both+ends+matter." />
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&pause=1200&color=7B9FFF&center=true&vCenter=true&width=600&lines=From+pixel+to+production+%E2%80%94+both+ends+matter." />
 
 <br/>
 
