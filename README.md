@@ -99,9 +99,9 @@ Vitest · GitHub Actions
 
 <br/>
 
-<table align="center" width="100%">
+<table align="center">
 <tr>
-<td width="100%">
+<td>
 
 ### 💬 [ZConnect](https://github.com/minhnt2510/zconnect) — Social Networking Platform
 **Role:** Full-stack Developer (Team)
@@ -110,7 +110,8 @@ Nền tảng mạng xã hội full-stack với nhắn tin real-time (Socket.IO),
 
 [➡️ Live Demo](https://zconnect-me.pages.dev/)
 
-`React 19` `TypeScript` `Tailwind CSS 4` `NestJS` `TypeORM` `MySQL` `Socket.IO` `WebRTC` `Gemini` `LangChain`
+`React 19` `TypeScript` `Tailwind CSS 4` `NestJS` `TypeORM` `MySQL`
+`Socket.IO` `WebRTC` `Gemini` `LangChain`
 
 </td>
 </tr>
@@ -118,7 +119,8 @@ Nền tảng mạng xã hội full-stack với nhắn tin real-time (Socket.IO),
 
 <br/>
 
-<table align="center" width="100%">
+<div align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -127,7 +129,10 @@ Nền tảng mạng xã hội full-stack với nhắn tin real-time (Socket.IO),
 
 Full-stack P2P vehicle rental platform — REST API with Axios, role-based routing, Docker Compose, and JWT authentication.
 
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Docker` `JWT`
+[➡️ View Repo](https://github.com/minhnt2510/vehicle-rental-system)
+
+`React` `Node.js` `Express` `MongoDB`
+`Tailwind CSS` `Docker` `JWT`
 
 </td>
 <td width="50%" valign="top">
@@ -137,15 +142,20 @@ Full-stack P2P vehicle rental platform — REST API with Axios, role-based routi
 
 URL-based search & filtering, pagination, JWT auth, protected routes, cart & checkout with TanStack Query.
 
-`React 19` `TypeScript` `Tailwind CSS` `TanStack Query` `React Router` `React Hook Form`
+[➡️ Live Demo](https://goshopminhntd.vercel.app/)
+
+`React 19` `TypeScript` `Tailwind CSS`
+`TanStack Query` `React Router` `React Hook Form`
 
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
-<table align="center" width="100%">
+<div align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -154,7 +164,10 @@ URL-based search & filtering, pagination, JWT auth, protected routes, cart & che
 
 RESTful API with Express, JWT auth, media upload to AWS S3, WebSocket realtime, automated CI/CD pipeline with Docker.
 
-`Node.js` `Express` `MongoDB` `Docker` `WebSocket` `AWS S3` `CI/CD`
+[➡️ Live Demo](https://twitter-social-client.pages.dev/)
+
+`Node.js` `Express` `MongoDB` `Docker`
+`WebSocket` `AWS S3` `CI/CD`
 
 </td>
 <td width="50%" valign="top">
@@ -164,11 +177,15 @@ RESTful API with Express, JWT auth, media upload to AWS S3, WebSocket realtime, 
 
 Full-stack TTS app with JWT auth, credit management, project management, API key support, and conversion history.
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Vite` `REST API`
+[➡️ Live Demo](https://export-voice-web.tanminh.workers.dev/)
+
+`React` `Node.js` `Express` `MongoDB`
+`JWT` `Vite` `REST API`
 
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
